@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.14" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="com.NarraBossWebsite.ItemFiles.Beneficiary_mailid" project="website5" 
+    file="/website5/src/com/NarraBossWebsite/ItemFiles/Beneficiary_mailid.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="254" y="135"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.NarraBossWebsite.ItemFiles.User" project="website5" 
+    file="/website5/src/com/NarraBossWebsite/ItemFiles/User.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="562" y="188"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.NarraBossWebsite.ItemFiles.Beneficiary" project="website5" 
+    file="/website5/src/com/NarraBossWebsite/ItemFiles/Beneficiary.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="436" width="290" x="811" y="-1"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="com.NarraBossWebsite.ItemFiles.ScheduleTransaction" project="website5" 
+    file="/website5/src/com/NarraBossWebsite/ItemFiles/ScheduleTransaction.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="436" width="395" x="1141" y="-1"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.NarraBossWebsite.ItemFiles.LastLogin" project="website5" 
+    file="/website5/src/com/NarraBossWebsite/ItemFiles/LastLogin.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="276" width="217" x="1576" y="-1"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.NarraBossWebsite.ItemFiles.Account" project="website5" 
+    file="/website5/src/com/NarraBossWebsite/ItemFiles/Account.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="496" width="337" x="1833" y="-1"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="com.NarraBossWebsite.ItemFiles.Transaction" project="website5" 
+    file="/website5/src/com/NarraBossWebsite/ItemFiles/Transaction.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="616" width="465" x="2210" y="-1"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="com.NarraBossWebsite.ItemFiles.Customer" project="website5" 
+    file="/website5/src/com/NarraBossWebsite/ItemFiles/Customer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="856" width="633" x="2715" y="-1"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="9" language="java" name="com.NarraBossWebsite.DAOfiles.BeneficiaryDao" project="website5" 
+    file="/website5/src/com/NarraBossWebsite/DAOfiles/BeneficiaryDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="196" width="316" x="94" y="362"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <enumeration id="10" language="java" name="com.NarraBossWebsite.DAOfiles.SchedTransDao" project="website5" 
+    file="/website5/src/com/NarraBossWebsite/DAOfiles/SchedTransDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="610" y="501"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <enumeration id="11" language="java" name="com.NarraBossWebsite.DAOfiles.UserDao" project="website5" 
+    file="/website5/src/com/NarraBossWebsite/DAOfiles/UserDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="936" y="593"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <enumeration id="12" language="java" name="com.NarraBossWebsite.DAOfiles.CustomerDao" project="website5" 
+    file="/website5/src/com/NarraBossWebsite/DAOfiles/CustomerDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1446" y="589"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <enumeration id="13" language="java" name="com.NarraBossWebsite.DAOfiles.TransactionDao" project="website5" 
+    file="/website5/src/com/NarraBossWebsite/DAOfiles/TransactionDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1992" y="591"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <enumeration id="14" language="java" name="com.NarraBossWebsite.DAOfiles.AccountDao" project="website5" 
+    file="/website5/src/com/NarraBossWebsite/DAOfiles/AccountDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2469" y="685"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <enumeration id="15" language="java" name="com.NarraBossWebsite.DAOfiles.LastLoginDao" project="website5" 
+    file="/website5/src/com/NarraBossWebsite/DAOfiles/LastLoginDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="216" width="256" x="2644" y="362"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
