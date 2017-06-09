@@ -132,24 +132,26 @@
 				<h1>Login to Your Account</h1>
 				<br>
 				<form name="login" method="get" action="/login">
-<table>
+					<table>
 
-<tr>
-<td><label>CustomerID</label></td>
-<td><input type="text" name="customerId" id="customerId" size="10" required/></td>
-</tr>
+						<tr>
+							<td><label>CustomerID</label></td>
+							<td><input type="text" name="customerId" id="customerId"
+								size="10" required /></td>
+						</tr>
 
-<tr>
-<td><label>Password</label></td>
-<td><input type="password" name="password" id="password" size="10" required/></td>
-</tr>
+						<tr>
+							<td><label>Password</label></td>
+							<td><input type="password" name="password" id="password"
+								size="10" required /></td>
+						</tr>
 
-<tr>
-<td colspan="2"><input type="submit" value="Submit"/></td>		
-</tr>
+						<tr>
+							<td colspan="2"><input type="submit" value="Submit" /></td>
+						</tr>
 
-</table>
-</form>
+					</table>
+				</form>
 
 
 			</div>
@@ -182,16 +184,20 @@
 		<div class="collapse navbar-collapse"
 			id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav">
-				<li ><a href="home.jsp" role="button" aria-haspopup="true" aria-expanded="false">HOME </a></li>
-				<li><a href="aboutus.jsp" aria-haspopup="true" aria-expanded="false" >AboutUs </a></li>
+				<li><a href="home.jsp" role="button" aria-haspopup="true"
+					aria-expanded="false">HOME </a></li>
+				<li><a href="aboutus.jsp" aria-haspopup="true"
+					aria-expanded="false">AboutUs </a></li>
 				<li><a href="services.jsp">Services</a></li>
-				<li><a href="contactus.jsp" aria-haspopup="true" aria-expanded="false" >Contact Us </a></li>
-				</ul>
+				<li><a href="contactus.jsp" aria-haspopup="true"
+					aria-expanded="false">Contact Us </a></li>
+			</ul>
 
-				<ul class="nav navbar-nav navbar-right">
-					<li class="position-right btn btn-block btn-info"><a href="#" data-toggle="modal" data-target="#login-modal">Login</a></li>
+			<ul class="nav navbar-nav navbar-right">
+				<li class="position-right btn btn-block btn-info"><a href="#"
+					data-toggle="modal" data-target="#login-modal">Login</a></li>
 
-				</ul>
+			</ul>
 		</div>
 		<!-- /.navbar-collapse -->
 	</div>
@@ -199,8 +205,8 @@
 	<div class="well">
 
 		<h2 class=" text-center">Welcome to our website!</h2>
-	<br/>
-		
+		<br />
+
 		<div class="entry">
 
 			<p>Business Bank provides a secure 24-access internet Banking
